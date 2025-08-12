@@ -1,4 +1,4 @@
-AI-AllInOne-toolkit is an open-source, AI-powered vulnerability detection toolkit for scanning codebases, container images, and network traffic to automatically discover, prioritize, and explain security issues.
+♨️AI-AllInOne-toolkit is an open-source, AI-powered vulnerability detection toolkit for scanning codebases, container images, and network traffic to automatically discover, prioritize, and explain security issues.
 
 Why this project?
 
